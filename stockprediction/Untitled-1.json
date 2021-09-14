@@ -1,0 +1,77 @@
+{
+    "id": 182,
+    "seller": {
+        "id": 1,
+        "name": "Lime Light",
+        "brand": 1
+    },
+    "sub_category": {
+        "id": 1
+    },
+    "collection": [
+        {
+            "name": "laptop",
+            "description": "final laptop dell",
+            "is_auto": true,
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png",
+            "status": true
+        }
+    ],
+    "product_variants": [
+        {
+            "title": "test added new variant",
+            "option1": "size",
+            "option2": "color",
+            "option3": "material",
+            "sku": "12",
+            "grams": 11.0,
+            "inventory_quantity": 1,
+            "inventory_policy": "1",
+            "fulfillment_service": "1",
+            "price": 1.0,
+            "compare_at_price": 123.0,
+            "requires_shipping": true,
+            "taxable": true,
+            "barcode": "12",
+            "weight_unit": "12",
+            "inventory_management": "1",
+            "cost_per_item": 12.0,
+            "status": "1",
+            "warranty": 1,
+            "bin_number": "11",
+            "serial_no": "1",
+            "img": "https://images-platform.99static.com/bFaSqiNNeV9NBU_LAMpnx-uJKyI=/0x0:960x960/500x500/top/smart/99designs-contests-attachments/127/127562/attachment_127562088"
+        }
+    ],
+    "product_options": [
+        {
+            "name": "option value 182",
+            "values": "good, color"
+        }
+    ],
+    "product_images": [
+        {
+            "url": "https://images-platform.99static.com/bFaSqiNNeV9NBU_LAMpnx-uJKyI=/0x0:960x960/500x500/top/smart/99designs-contests-attachments/127/127562/attachment_127562088",
+            "alt_text": "good alt text updated"
+        }
+    ],
+    "product_tags": [
+        {
+            "tag_name": "tags updated?"
+        }
+    ],
+    "title": "product test 182 updated",
+    "product_id": "69",
+    "description": "ws",
+    "vendor": "limelight",
+    "handle": "hanvlde",
+    "product_code": "2e3",
+    "product_type": "used",
+    "published": true,
+    "allow_subscription": true,
+    "subscription": "1",
+    "seo_title": "qq",
+    "seo_url_handle": "1",
+    "seo_description": "",
+    "draft_product": false
+}
